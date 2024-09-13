@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UNHCR - Jobs</string>
+    <string name="vacancy_image">Vacancy Image</string>
+    <string name="general_error">Something went wrong, Please try again later!</string>
+</resources>
